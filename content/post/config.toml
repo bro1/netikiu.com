@@ -1,0 +1,19 @@
+baseBlogURL = "http://netikiu.com"
+baseURL = "http://wordpress.com/"
+title = "Aš ne daktaras, bet..."
+description = "sveikas protas sveikam kūnui"
+languageCode = "lt-lt"
+homepage = "http://netikiu.com"
+
+[author]
+[[author.authors]]
+uid = "linasj"
+email = "linasj@gmail.com"
+name = "linasj"
+
+[params]
+publishDate = "Fri, 20 May 2022 23:31:26 +0000"
+
+[params.image]
+href = "http://netikiu.com"
+title = "Aš ne daktaras, bet..."

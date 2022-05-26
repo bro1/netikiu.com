@@ -1,0 +1,44 @@
+baseURL = "https://netikiu.com/"
+languageCode = "lt"
+title = "Aš ne daktaras, bet..."
+theme = "phlat"
+removePathAccents=true
+preserveTaxonomyNames=true
+description = "sveikas protas sveikam kūnui"
+
+# rssLimit = 20
+
+[markup.goldmark.renderer]
+unsafe = true  # enable raw HTML in Markdown
+
+[permalinks]
+    post = "/:year/:month/:slug/"
+    page = "/:slug/"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+
+[params]
+    keywords = ["laisvamaniai", "laisvamanybė", "žmonių teisės", "žiniasklaidos atsakomybė", "pagarba tiesai", "pagarba mokslo metodui", "pagarba mokslui","žmonių laisvės", "abortas", "abortai", "eutanazija", "eutanazijos legalizavimas","LGBT teisės","vienos lyties asmenų santuoka","vakcinos", "vakcinavimas","sąmokslo teorijos"]
+    description = "Laisvamaniai gerbia žmogaus laisves ir teises, žmonių lygybę, mokslą, sekuliarią visuomenę ir žiniasklaidos atsakingumą."
+
+[[menu.header]]
+    name = "Apie"
+    weight = 1
+    url = "/about/"
+
+[[menu.header]]
+    name = "Kitur: Laisvamaniai.com"
+    weight = 5
+    url = "https://www.laisvamaniai.com/"
+
+[[menu.header]]
+    name = "Tyrimai"
+    weight = 3
+    url = "/tyrimai/"
+
+[[menu.header]]
+    name = "Ruošiami straipsniai"
+    weight = 4
+    url = "/ruosiami-straipsniai-prisidek-ir-tu/"
