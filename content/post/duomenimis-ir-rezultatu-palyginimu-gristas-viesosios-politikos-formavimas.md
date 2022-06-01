@@ -12,10 +12,11 @@ tags:
 - atsitiktiniu-imciu-tyrimai-politikoje
 - randomizuoti-tyrimai
 - tyrimai
-title: "Duomenimis ir rezultat\u0173 palyginimu gr\u012Fstas vie\u0161osios politikos\
-  \ formavimas"
+title: "Duomenimis ir rezultatų palyginimu grįstas viešosios politikos formavimas"
 ---
-[![RCT_-_explained title=](https://s3.amazonaws.com/easel.ly/all_easels/11283/RCT_-_explained/image.jpg)](https://s3.amazonaws.com/easel.ly/all_easels/11283/RCT_-_explained/image.jpg)
+
+<img src="https://s3.amazonaws.com/easel.ly/all_easels/11283/RCT_-_explained/image.jpg" style="width: 100%" alt="RCT - explained">
+
 **Apie atsitiktinių imčių tyrimus**
 
 Atsitikinių imčių tyrimai (randomized controller trial) jau seniai yra de facto standartas nustatant, ar gydymo priemonė yra veiksminga. Tai daroma suskirtant pacientus į keletą atsitiktinių imčių ir vieną iš tų imčių naudojant, kaip kontrolinę grupę. Tai gali būti grupė, kuriai netaikomas joks papildomas gydymas arba grupė, kuriai taikomas standartinis gydymas. Kitoms grupės taikoma viena ar kita eksperimentinė gydymo priemonė ir vėliau palyginimi gydymo rezultatai.
