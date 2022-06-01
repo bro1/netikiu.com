@@ -3,7 +3,7 @@
         <h5>Naujausi įrašai</h5>
         <ul class="list-unstyled posts-recent">
             {{ range first 7 (where .Site.RegularPages "Type" "post") }}
-                <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
             {{ end }}
         </ul>
     </div>

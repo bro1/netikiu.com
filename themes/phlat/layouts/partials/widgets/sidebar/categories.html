@@ -1,20 +1,6 @@
-{{/* {{ range $key, $value := .Site.Taxonomies }}
-    {{ if eq $key "categories" }}
-        <div class="row">
-            <div class="col-md-11 col-md-offset-1 card">
-                <h5>Skyreliai</h5>
-                <ul class="list-unstyled posts-recent">
-                    {{ range $value.ByCount }}
-                        <li><a href="{{ $.Site.BaseURL}}{{ $key | pluralize }}/{{ .Name | urlize }}">{{ .Name }}</a></li>
-                    {{ end }}
-                </ul>
-            </div>
-        </div>
-    {{ end }}
-{{ end }} */}}
-
 <div class="row">
     <div class="col-md-11 col-md-offset-1 card">
+        <h5><a href="/post">Visi įrašai</a></h5>
         <h5><a href="/categories">Skyreliai</a></h5>
         <h5><a href="/tags">Žymos</a></h5>
     </div>

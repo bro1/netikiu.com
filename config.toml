@@ -29,7 +29,7 @@ unsafe = true  # enable raw HTML in Markdown
     url = "/about/"
 
 [[menu.header]]
-    name = "Kitur: Laisvamaniai.com"
+    name = "laisvamaniai.com"
     weight = 5
     url = "https://www.laisvamaniai.com/"
 
