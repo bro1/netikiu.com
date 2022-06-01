@@ -13,7 +13,7 @@ tags:
 - demonu-apsestas-pasaulis
 - mokslo-populiarinimas
 - tv
-title: Kosmosas
+title: Kosmosas - dokumentinis serialas
 ---
 ![](http://farm8.staticflickr.com/7100/13161913104_005d059eff_o.jpg)
 
@@ -25,6 +25,7 @@ Tad didelė dalis skeptikų bendruomenės labai džiaugiasi, kad Fox televizija 
 
 Esantiems JAV - šį serialą galite pasižiūrėti per internetą Fox televizijos svetainėje [www.cosmosontv.com](http://www.cosmosontv.com/).
 
-Čia šio serialo reklaminis klipukas:
+Čia šio serialo klipukas:
 
-[youtube=http://www.youtube.com/watch?v=kBTd9--9VMI]
+{{< youtube Bl-s4tqR8Bc >}}
+

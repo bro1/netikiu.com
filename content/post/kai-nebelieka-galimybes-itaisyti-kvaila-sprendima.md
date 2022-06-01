@@ -1,6 +1,4 @@
 ---
-_oembed_4cece5398813efaea8565152416287eb:
-- '{{unknown}}'
 aliases:
 - /2011/10/26/kai-nebelieka-galimybes-itaisyti-kvaila-sprendima/
 author: linasj
@@ -16,7 +14,7 @@ tags:
 - kasos-vezys
 - steve-jobs
 - vezys
-title: "Kai nebelieka galimyb\u0117s i&scaron;taisyti kvail\u0105 sprendim\u0105"
+title: "Kai nebelieka galimybės ištaisyti kvailą sprendimą"
 ---
 Prieš tris savaites [numirė Steve Jobs](http://mokslas.delfi.lt/technology/mire-buves-apple-vadovas-sjobsas.d?id=50389134) (vienas iš Apple įkūrėjų). Sprendžiant iš šurmulio internete bei žiniasklaidoje matyti, kad žmonės apie jį žinojo, ir kai kurie netgi žinojo, kad Steve Jobs mirė nuo kasos vėžio.
 
@@ -28,6 +26,6 @@ Prieš tris savaites [numirė Steve Jobs](http://mokslas.delfi.lt/technology/mir
 
  **Šaltinis**
 
- <http://www.skepticblog.org/2011/10/06/steve-jobs-succumbs-to-alternative-medicine/>
+ http://www.skepticblog.org/2011/10/06/steve-jobs-succumbs-to-alternative-medicine/
 
 

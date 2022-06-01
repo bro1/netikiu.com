@@ -12,9 +12,10 @@ tags:
 - mokslas
 - mokslinis-metodas
 - vezys
-title: "Kaip i&scaron;siai&scaron;kiname, ar gydymo b\u016Bdas yra veiksmingas?"
+title: "Kaip išsiaiškiname, ar gydymo būdas yra veiksmingas?"
 ---
-*Trumpai: visokius neveikiančius alternatyviosios medicinos būdus kritkiuoti man leidžia – mokslo pagrindų ir realybės supratimas. Jau atlikti tyrimai, rodantys, kad tam tikri alternatyviosios medicinos gydymo metodai neveikia, tyrimų rodančių efektyvumą neegzistavimas bei “alternatyviosios medicinos” užsitarnauta neveiksmingų metodų prastūminėjimo reputacija.*
+
+*Trumpai: visokius neveikiančius alternatyviosios medicinos būdus kritikuoti man leidžia – mokslo pagrindų ir realybės supratimas. Jau atlikti tyrimai, rodantys, kad tam tikri alternatyviosios medicinos gydymo metodai neveikia, tyrimų rodančių efektyvumą neegzistavimas bei “alternatyviosios medicinos” užsitarnauta neveiksmingų metodų prastūminėjimo reputacija.*
 
  Neretai tenka susidurti su požiūriu: 
 
@@ -29,7 +30,7 @@ title: "Kaip i&scaron;siai&scaron;kiname, ar gydymo b\u016Bdas yra veiksmingas?"
 
  **Mes suprantame, kaip veikia organizmas ir suprantame, didelės dalies ligų priežastis.**
 
- Pavyzdžiui vėžys yra didelė ligų grupė apiemanti įvairų nekontroliuojamą ląstelių augimą ir dalinimąsi. To priežastis - DNR mutacijos, kurias gali sukelti įvairūs veiksniai – rūkymas, alkoholis, dieta, radiacija, cheminis ar fizinis poveikis, paveldimumas ir kt.
+ Pavyzdžiui vėžys yra didelė ligų grupė apimanti įvairų nekontroliuojamą ląstelių augimą ir dalinimąsi. To priežastis - DNR mutacijos, kurias gali sukelti įvairūs veiksniai – rūkymas, alkoholis, dieta, radiacija, cheminis ar fizinis poveikis, paveldimumas ir kt.
 
  **Mes suprantame, kaip veikia fizika ir chemija.**
 
@@ -43,7 +44,7 @@ title: "Kaip i&scaron;siai&scaron;kiname, ar gydymo b\u016Bdas yra veiksmingas?"
 
  Taip pat, kai kurie “alternatyviosios medicinos” metodai nėra akivaizdžiai prieštaraujantys realybei. Pvz. gydymas žolelėmis kuo puikiausiai gali būti veiksmingas
 
- Bet niekuoment nerekia pamiršti, kad yra daug skirtingų ligų, skirtingų žolelių bei augalų, todėl į kiekvieną teiginį tuomet reikia žiūrėti atskirai.
+ Bet niekuomet nereikia pamiršti, kad yra daug skirtingų ligų, skirtingų žolelių bei augalų, todėl į kiekvieną teiginį tuomet reikia žiūrėti atskirai.
 
  Vienas įdomesnių aspektų yra placebo efektas. Praktiškai bet koks gydymas – tiek efektyvus, tiek visiškai neveikiantis, gali priversti žmogų jaustis geriau vien dėl to, kad žmogus mato, jog jam stengiamasi padėti. 
 
@@ -64,13 +65,13 @@ title: "Kaip i&scaron;siai&scaron;kiname, ar gydymo b\u016Bdas yra veiksmingas?"
  * ar tikrai gydymas yra efektyvesnis už placebą. Jeigu gydymas nėra efektyvesnis, už placebą, tai reiškia, kad gydymas neveikia.
 * ar siūlomas gydymo būdas yra efektyvesnis ar mažiau efektyvus už kitus būdus?
 
- Tokio sąžiningo palyginimo “aukso” standartas yra atsitiktinių grupių dvigubo apakinimo tyrimai (Double blinded radomized controlled trials).
+ Tokio sąžiningo palyginimo “aukso” standartas yra atsitiktinių grupių dvigubai apakinti tyrimai (Double blinded radomized controlled trials).
 
  **Kodėl liudijimai ir pasakojimai nieko nereiškia?**
 
  Dažnai “alternatyviosios medicinos” atstovai savo gydymo būdo efektyvumą reklamuoja naudodami liudijimus ir atsiliepimus. Tokie liudijimai yra beprasmiai, nes:
 
- 1. neleidžia palyginti gydymo būdo su niekuo kitu
+1. neleidžia palyginti gydymo būdo su niekuo kitu
 2. gali būti paprasčiausiais placebo efektas
 3. gali būti paprasčiausias imuninės sistemos veiklos rezultatas
 4. gali būti paprasčiausias melas
@@ -82,5 +83,4 @@ title: "Kaip i&scaron;siai&scaron;kiname, ar gydymo b\u016Bdas yra veiksmingas?"
  **Priminimas**
 
  Kai išsiaiškiname, kad gydymas veikia – tai yra medicina. Kai įrodoma, kad neveikia – tai ne medicina. O “alternatyvioji medicina” yra beprasmė sąvoka.
-
 

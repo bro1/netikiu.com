@@ -10,7 +10,7 @@ publishDate: '2012-01-26T02:53:25+00:00'
 tags:
 - finansai
 - homeopatija
-title: 'Finansinis patarimas #1'
+title: 'Finansinis patarimas #1 - nešvaistykite pinigų netikro gydymo priemonėms'
 ---
 Patarimas trumpai: Jeigu trūksta pinigų, nešvaistykite jų neveikiančioms medicinos priemonėms, tokioms kaip homeopatija.
 

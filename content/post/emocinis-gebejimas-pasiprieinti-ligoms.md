@@ -1,18 +1,4 @@
 ---
-_oembed_53393f9308012f8a1949a910f6bd3667:
-- '{{unknown}}'
-_oembed_77b6c87a9491c5e25a3bc6441046e48d:
-- '{{unknown}}'
-_oembed_87740b3563bdabdae8f2af4838aa7fa6:
-- '{{unknown}}'
-_oembed_915c9f5a6cdcf4cfbb79d9bda3bf6774:
-- '{{unknown}}'
-_oembed_bdf437a00c4ca09a2bb6178ff0f00b65:
-- '{{unknown}}'
-_oembed_d073f5a0201d70f40360dd155b53d03f:
-- '{{unknown}}'
-_publicize_pending:
-- 1
 aliases:
 - /2013/03/21/emocinis-gebejimas-pasiprieinti-ligoms/
 author: linasj
@@ -31,8 +17,9 @@ tags:
 - naturopatija
 - naturopate
 - zofija-tikuisiene
-title: "Emocinis geb\u0117jimas pasiprie&scaron;inti ligoms"
+title: "Emocinis gebėjimas pasipriešinti ligoms"
 ---
+
 ***Trumpai: Ar gera nuotaika padės išsaugoti sveikatą ar apsisaugoti nuo virusų? Ne visai.***
 
  Delfyje skelbiamas [straipsnelis](http://www.delfi.lt/news/daily/health/naturopate-baime-gali-sukelti-bet-kokia-liga.d?id=60944621) su natūropate Zofija Tikuišiene. Štai keletas ištraukų:
@@ -42,7 +29,7 @@ title: "Emocinis geb\u0117jimas pasiprie&scaron;inti ligoms"
 > 
 >  Gydytoja pateikė pavyzdį, kodėl virusine infekcija ar kokia kita liga dažniausiai susergame, kai būname pavargę. Arba vienas žmogus tokiomis pat aplinkybėmis suserga, o kitas išlieka sveikas. 
 > 
->  (…)
+>  (...)
 > 
 >  Natūropatės manymu, baimė gali pritraukti bet kokią ligą. Tai viena didžiausių blogybių, nuodijanti gyvenimą. Tad norintis būti sveikas žmogus turėtų atsikratyti baimių, blogų minčių ir į savo gyvenimą įsileisti daugiau pozityvumo.
 > 
@@ -55,11 +42,11 @@ title: "Emocinis geb\u0117jimas pasiprie&scaron;inti ligoms"
 
  Pradėkime nuo terminų.
 
- Natūropatija yra “[alternatyviosios medicinos](http://netikiu.com/2012/01/13/kodel-mums-nereikalingas-terminas-alternatyvioji-medicina/)” rūšis besiremianti tikėjimu gyvybine energija ir teigianti, kad gyvybinė energija arba gyvybinės jėgos valdo kūniškus procesus tokius kaip metabolizmas, reprodukcija, augimas ir prisitaikymas.
+ Natūropatija yra “[alternatyviosios medicinos](/2012/01/13/kodel-mums-nereikalingas-terminas-alternatyvioji-medicina/)” rūšis besiremianti tikėjimu gyvybine energija ir teigianti, kad gyvybinė energija arba gyvybinės jėgos valdo kūniškus procesus tokius kaip metabolizmas, reprodukcija, augimas ir prisitaikymas.
 
- Jeigu trumpai, tai natūropatija yra terminas apimantis [platų spektrą](http://en.wikipedia.org/wiki/Naturopathy#Methods) įvairių “alternatyviosios medicinos” priemonių – homeopatiją, akupunktūrą, smegenų bangų formavimą ir kt.
+ Jeigu trumpai, tai natūropatija yra terminas apimantis [platų spektrą (wikipedija)](http://en.wikipedia.org/wiki/Naturopathy#Methods) įvairių “alternatyviosios medicinos” priemonių – homeopatiją, akupunktūrą, smegenų bangų formavimą ir kt.
 
- Dertų pastebėti, kad senovinis tikėjimas gyvybine energija buvo vienareikšmiškai nustumtas į šalį, kai mes mokslo pagalba išsiaiškinome, kaip veikia organizmas, atsikiri organai, ląstelės, iš ko sudaryta ir kaip veikia imuninė sistema, kaip veikia genai ir pan.
+ Derėtų pastebėti, kad senovinis tikėjimas gyvybine energija buvo vienareikšmiškai nustumtas į šalį, kai mes mokslo pagalba išsiaiškinome, kaip veikia organizmas, atskiri organai, ląstelės, iš ko sudaryta ir kaip veikia imuninė sistema, kaip veikia genai ir pan.
 
  **Emocinis pasipriešinimas ligoms ir imuninė sistema**
 
@@ -97,10 +84,9 @@ title: "Emocinis geb\u0117jimas pasiprie&scaron;inti ligoms"
 
  **Nuorodos**
 
- <http://www.ncbi.nlm.nih.gov/pubmed/23245970> – rodo, kad ilgalaikis stresas neigiamai veikia imuninės sitemos veiklą, tuo tarpu trumpalaikis stresas gali turėti teigiamą poveikį.
+ <http://www.ncbi.nlm.nih.gov/pubmed/23245970> – rodo, kad ilgalaikis stresas neigiamai veikia imuninės sistemos veiklą, tuo tarpu trumpalaikis stresas gali turėti teigiamą poveikį.
 
- <http://freethoughtblogs.com/amilliongods/2012/11/26/immunity-easy-peasy-lemon-squeezie/> – gan glausta imuninės sistemos apžvalga.
+ <https://web.archive.org/web/20130221042948/http://freethoughtblogs.com/amilliongods/2012/11/26/immunity-easy-peasy-lemon-squeezie//> – gan glausta imuninės sistemos apžvalga.
 
  [http://sciblogs.co.nz/code-for-life/2011/08/14/abbie-smith-talk/](http://sciblogs.co.nz/code-for-life/2011/08/14/abbie-smith-talk/ "http://sciblogs.co.nz/code-for-life/2011/08/14/abbie-smith-talk/") – Abbie Smith vaizdo įrašas apie tai, kaip veikia imuninė sistema. Labai rekomenduoju pažiūrėti suprantantiems angliškai.
-
 

@@ -11,8 +11,7 @@ date: '2011-11-10T00:15:26+00:00'
 publishDate: '2011-10-31T22:37:13+00:00'
 tags:
 - chroniskas-nuovargis
-title: "Chroni&scaron;kas nuovargis (arba \u017Einiasklaida nesivargina patikrinti\
-  \ fakt\u0173)"
+title: Chroniškas nuovargis (arba žiniasklaida nesivargina patikrinti faktų)
 ---
 Alfa [rašo](http://www.alfa.lt/straipsnis/12792673/Letinis.nuovargis.ispeja..laikas.sustoti=2011-10-31_12-38/):
 
