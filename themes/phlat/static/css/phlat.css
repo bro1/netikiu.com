@@ -147,7 +147,7 @@ nav>div.container {
 }
 
 .content-card img {
-    /*width: 100%;*/
+    max-width: 100%;
 }
 
 .content-card .list-inline {

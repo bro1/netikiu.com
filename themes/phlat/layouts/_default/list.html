@@ -7,7 +7,7 @@
             <div class="row" id="content-main">
                 <div class="col-md-8">                    
                     {{ range .RegularPages }}
-                        <a href="{{ .Permalink }}"><li>{{ .Title }}</a> 
+                        <a href="{{ .RelPermalink }}"><li>{{ .Title }}</a> 
                             <span style="font-size: xx-small; color: grey; padding-left: 1.2em; white-space: nowrap;">// <i class="fa fa-calendar"></i>
                             {{ .Date.Format "2006-01-02" }}</span>
                             
