@@ -57,14 +57,8 @@ Absoliučia dauguma atvejų, "veiksniosios" medžiagos tame tirpale praktiškai 
 > Paklausta, kuri prekių grupė, augant vaikams, brango labiausiai, Ernesta paminėjo vaistus. „Dvigubai ir daugiau brango homeopatiniai preparatai. Apskritai nė viena prekių grupė nepigo“, — sako moteris.
 
 
-Tad ir plakatas ta proga:
-
-![homeopatija-demotivational-lt](http://static.zooomr.com/images/10153499_8242e94d2a_o.jpg)
-
-
 
 ---
-
 
 
 \* - skaičiavimai atlikti remiantis [Grip-Heel](http://univaistine.lt/gripp-heelr-n50-heel.html) homeopatinio preparato sudėtimi ir kaina.

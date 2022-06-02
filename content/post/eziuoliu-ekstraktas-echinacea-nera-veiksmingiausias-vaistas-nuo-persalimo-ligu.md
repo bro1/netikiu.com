@@ -1,8 +1,4 @@
 ---
-_publicize_job_id:
-- 17428533888
-_wpcom_is_markdown:
-- 1
 aliases:
 - /2015/12/03/eziuoliu-ekstraktas-echinacea-nera-veiksmingiausias-vaistas-nuo-persalimo-ligu/
 author: linasj
@@ -59,7 +55,9 @@ Pasižvalgius po mokslu grįstos medicinos organizacijų [svetaines](https://www
 Na gerai, daugumai žmonių tokie dalykai gal ir negirdėti, bet tie treji metai galėjo tapti puikia proga žurnalistams susirasti tyrimo analizei ir sustatyti viską į kontekstą.
 
 [![a-urnalistas](/static/2015/12/a-urnalistas.jpg)](/static/2015/12/a-urnalistas.jpg)
+
 **Priekaištai tyrimo autoriams**
+
 (Pagal išsamią ir kritišką [analizę](http://www.nhs.uk/news/2012/10October/Pages/Herbal-remedy-echinacea-does-protect-against-colds.aspx))
 
 * nenurodytas finansavimas ir interesų konfliktai
@@ -68,6 +66,7 @@ Na gerai, daugumai žmonių tokie dalykai gal ir negirdėti, bet tie treji metai
 
 
 [![jei-vartosi-eiuol](/static/2015/12/jei-vartosi-eiuol.jpg)](/static/2015/12/jei-vartosi-eiuol.jpg)
+
 **Kodėl svarbu pateikti visus (tiek teigiamus, tiek ir neigiamus) rezultatus?**
 
 Įsivaizduokite, kad jūs teigiate, jog televizoriaus žiūrėjimas yra naudingas sveikatai ir atliekate tyrimą su 700 žmonių. Po to tiems 700 žmonių pamatuojate 100 skirtingų sveikatos rodiklių: pulsą, spaudimą, per žemą spaudimą, per didelį spaudimą, svorį, kūno masės indeksą, raudonųjų kraujo ląstelių kiekį, regą, klausą ir pan.

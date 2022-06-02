@@ -5,7 +5,7 @@ aliases:
 - /2013/03/25/kaip-isiaikiname-ar-gydymo-budas-yra-veiksmingas/
 author: linasj
 categories:
-- uncategorized
+- sveikata-ir-medicina
 date: '2013-03-25T04:00:00+00:00'
 publishDate: '2013-03-25T03:59:59+00:00'
 tags:

@@ -1,15 +1,14 @@
 ---
-_publicize_pending:
-- 1
 aliases:
 - /2014/01/22/senute-valganti-smeli/
 author: linasj
 categories:
 - mityba
-- uncategorized
+tags:
+- netikra mityba
 date: '2014-01-22T09:24:08+00:00'
 publishDate: '2014-01-22T09:24:08+00:00'
-title: "Senut\u0117 valganti sm\u0117l\u012F"
+title: "Senutė valganti smėlį"
 ---
 ![](http://farm3.staticflickr.com/2846/12082940133_ce2c024911_z.jpg)
 

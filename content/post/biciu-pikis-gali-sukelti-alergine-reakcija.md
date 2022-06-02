@@ -1,8 +1,4 @@
 ---
-_oembed_937232eb9a6e8535b857af01f96c60f4:
-- '{{unknown}}'
-_publicize_pending:
-- 1
 aliases:
 - /2014/01/09/biciu-pikis-gali-sukelti-alergine-reakcija/
 author: linasj
@@ -32,4 +28,5 @@ Taip pat, derėtų atkreipti dėmesį, kad žmonėms, kurie yra alergiški bitė
 Jeigu nesate alergiškas medui ir kitiems bičių produktams, tai ko gero bičių pikis jums nepakenks, tačiau aš patarčiau nešvaistyti pinigų ir laiko bičių pikiui. Jeigu tikrai iškilo kokia sveikatos problema - pasitarkite su savo gydytoju, o ne pasikliaukite avilių skylių užlipdymo medžiaga.
 
 **Nuorodos**
-<http://en.wikipedia.org/wiki/Propolis#Biomedical_research>
+
+* [Wikipedija - bičių pikis (angliškai)](http://en.wikipedia.org/wiki/Propolis#Biomedical_research)

@@ -1,12 +1,4 @@
 ---
-_publicize_job_id:
-- 8248167750
-_rest_api_client_id:
-- -1
-_rest_api_published:
-- 1
-_wpcom_is_markdown:
-- 1
 aliases:
 - /2017/08/14/mirstanciuju-patyrimai-chaoso-smegenyse-padarinys/
 author: linasj
@@ -14,7 +6,7 @@ categories:
 - religija
 date: '2017-08-14T10:03:30+00:00'
 publishDate: '2017-08-14T09:50:06+00:00'
-title: "Mir\u0161tan\u010Di\u0173j\u0173 patyrimai - chaoso smegenyse padarinys"
+title: "Mirštančiųjų patyrimai - chaoso smegenyse padarinys"
 ---
 ![gyvas-dangaus-irodymas](/static/2017/08/gyvas-dangaus-irodymas.jpg)
 *Trumpai: nepaisant įvairių tikinčiųjų pasakojimų - klinikinės mirties patyrimai yra tiesiog chaoso kylančio smegenyse mirties metu padarinys.*
@@ -46,16 +38,12 @@ Tiek klinikinės mirties metu patirtos haliucinacijos, tiek vėliau, atsigavimo 
 * Science based medicine - [Near Death Experiences and the Medical Literature](https://sciencebasedmedicine.org/near-death-experiences-and-the-medical-literature/) by Mark Crislip
 * Neurologica blog - [AWARE Results Finally Published – No Evidence of NDE](http://theness.com/neurologicablog/index.php/aware-results-finally-published-no-evidence-of-nde/) by Steven Novella
 * Neurologica blog - [Studying Near Death Experiences](http://theness.com/neurologicablog/index.php/studying-near-death-experiences/) by Steven Novella
-* Technologijos [Mokslininkai paaiškino, kodėl mirštantieji mato šviesą tunelio gale] (http://www.technologijos.lt/n/mokslas/zmogus\_ir\_medicina/S-56015/straipsnis/Mokslininkai-paaiskino-kodel-mirstantieji-mato-sviesa-tunelio-gale)
+* Technologijos [Mokslininkai paaiškino, kodėl mirštantieji mato šviesą tunelio gale](http://www.technologijos.lt/n/mokslas/zmogus\_ir\_medicina/S-56015/straipsnis/Mokslininkai-paaiskino-kodel-mirstantieji-mato-sviesa-tunelio-gale)
 * PLOS One [Characteristics of Near-Death Experiences Memories as Compared to Real and Imagined Events Memories](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0057620)
 * University of Liège - [Memories of near death experiences (NDE): more real than reality?](https://www.ulg.ac.be/cms/rv_2912328/en/memories-of-near-death-experiences-nde-more-real-than-reality)
 
 
-
-
-
 ---
-
 
 1. Terminą "temporo-parietal lobe" išverčiau "smilkininė ir momentinė skiltis", bet nežinau, ar tai teisingas lietuviškas vertimas. [↩](#fnref-798-1)
 

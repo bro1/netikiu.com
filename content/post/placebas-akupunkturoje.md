@@ -1,17 +1,15 @@
 ---
-_wpas_skip_fb:
-- 1
 aliases:
 - /2011/04/22/placebas-akupunkturoje/
 author: linasj
 categories:
-- uncategorized
+- alternatyvi-medicina
 date: '2011-04-27T11:45:29+00:00'
 publishDate: '2011-04-22T08:03:43+00:00'
 tags:
 - akupunktura
 - placebas
-title: "Placebas akupunkt\u016Broje"
+title: "Placebas akupunktūroje"
 ---
 **Trumpai**
 

@@ -3,7 +3,7 @@ aliases:
 - /2012/04/24/kartais-galvojate-kad-padedate-vaikui-taciau-padedate-sarlatanams/
 author: linasj
 categories:
-- uncategorized
+- alternatyvi-medicina
 date: '2012-04-24T05:28:44+00:00'
 publishDate: '2012-04-24T05:28:44+00:00'
 tags:
@@ -13,9 +13,9 @@ tags:
 - neuroblastoma
 - stebuklingos-klinikos
 - vezys
-title: "Kartais galvojate, kad padedate vaikui, ta\u010Diau padedate \u0161arlatanams"
+title: "Kartais galvojate, kad padedate vaikui, tačiau padedate šarlatanams"
 ---
-![free-poster-qdntew06oa-MES-NE-DAKTARAI](http://static.zooomr.com/images/10191658_be4315c864.jpg)
+
 ***(Šiuo įrašu paprieštarausiu savo mėgstamam blogeriui Buržujui, kuris [nemato nieko blogo](http://www.kleckas.lt/blog/geda-tiems-kurie-aukoja) tame, kad šarlatanai šaltakraujiškai ir žiauriai išnaudoja vėžiu sergančius vaikus ir žmones norinčius padėti tiems vaikams)***
 
 Ko gero ne vienam teko girdėti apie stebuklingą kliniką Baltarusijoje, Meksikoje, Kinijoje, Rusijoje ar kokioje nors kitoje egzotiškoje šalyje. Ta klinika kartais gydo nuo bet kokio vėžio. Kartais ji taiko gydymą kamieninėmis ląstelėmis. Kartais tiesiog kokiu nors "Anatolijaus metodu". Visos šios klinikos beveik be išimties žada kone garantuotą pasveikimą ir mainais reikalauja tik keliolikos ar keliasdešimties tūkstančių dolerių.

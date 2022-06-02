@@ -1,16 +1,15 @@
 ---
-_oembed_6aabc799181e9e8d084292e6c57c0891:
-- '{{unknown}}'
-_publicize_pending:
-- 1
 aliases:
 - /2013/11/04/laiskas-sveikatos-apsaugos-ministerijai-del-alternatyviosios-medicinos/
 author: linasj
 categories:
-- uncategorized
+- alternatyvi-medicina
+- sveikata-ir-medicina
+tags:
+- alternatyvi-medicina
 date: '2013-11-04T02:46:32+00:00'
 publishDate: '2013-11-04T02:43:54+00:00'
-title: "Lai\u0161kas Sveikatos apsaugos ministerijai d\u0117l alternatyviosios medicinos"
+title: "Laiškas Sveikatos apsaugos ministerijai dėl alternatyviosios medicinos"
 ---
 Sveikatos apsaugos ministerija [pakvietė](http://sam.lt/go.php/lit/Papildomoji_ir_alternatyvioji_medicina__/4243) visuomenę dalyvauti diskusijose dėl Papildomosios ir alternatyviosios medicinos reguliavimo:
 

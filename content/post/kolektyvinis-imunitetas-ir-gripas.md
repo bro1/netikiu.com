@@ -1,10 +1,4 @@
 ---
-_publicize_job_id:
-- 21710511426
-_wp_old_date:
-- '2014-01-27'
-_wpcom_is_markdown:
-- 1
 aliases:
 - /2019/03/05/kolektyvinis-imunitetas-ir-gripas/
 author: linasj
@@ -22,7 +16,8 @@ tags:
 - vakcinavimas
 title: Kolektyvinis imunitetas ir gripas
 ---
-[![Marškinėliai su užrašu: Stop Messing with my Herd Immunity](http://rlv.zcache.co.nz/isapi/designall.dll?rlvnet=1&realview=113831614780590990&design=a22719c8-bc4e-48a0-be3b-7fd0ae94d9e2&style=ladies_casual_ringer_tshirt&size=a_l&color=whitebabyblue&pending=false&pdt=zazzle_shirt&max_dim=512)](http://www.zazzle.co.nz/maintain_herd_immunity_tees-235930217279300761)
+
+<img src="http://rlv.zcache.co.nz/isapi/designall.dll?rlvnet=1&realview=113831614780590990&design=a22719c8-bc4e-48a0-be3b-7fd0ae94d9e2&style=ladies_casual_ringer_tshirt&size=a_l&color=whitebabyblue&pending=false&pdt=zazzle_shirt&max_dim=512" width="100%" alt="Marškinėliai su užrašu: Stop Messing with my Herd Immunity"/>
 
 (Atnaujinta 2019 Kovą)
 

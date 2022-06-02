@@ -1,19 +1,14 @@
 ---
-_oembed_74ef69dfea0cfca7f557de1bdc69dc9a:
-- '{{unknown}}'
-_oembed_bf6df6573bcb1a57ce604e37ce09c291:
-- '{{unknown}}'
-_oembed_c163a1eb8dfe40d409f79f15a91678d9:
-- '{{unknown}}'
 aliases:
 - /2012/10/03/tikinciuju-ir-netikinciuju-statistika/
 author: linasj
 categories:
-- uncategorized
+- religija
 date: '2012-10-03T01:53:21+00:00'
 publishDate: '2012-10-03T01:47:14+00:00'
-title: "Tikin\u010Di\u0173j\u0173 ir netikin\u010Di\u0173j\u0173 statistika"
+title: "Tikinčiųjų ir netikinčiųjų statistika"
 ---
+
 *Atnaujinta 2012 10 03 04:47 Lietuvos laiku: patikslinti skaičiai ir pakeistas tekstas atsižvelgiant į tai, kad pirmoje versijoje nežinojau, kiek žmonių nenurodė, kuriai religinei bendruomenei save priskiria.*
 
 Prieš keletą dienų Lietuvos statistikos departamentas paruošė [pranešimą spaudai](http://www.stat.gov.lt/lt/news/view/?id=11317), kuriame pateikti skaičiai apie gyventojų tikybą mane nustebino - netikinčiųjų procentas Lietuvoje per pastaruosius dešimt metų sumažėjo. Katalikų Lietuvoje taip pat sumažėjo, bet ne taip smarkiai kaip netikinčiųjų.
@@ -44,9 +39,12 @@ Aš pats įtariu, kad skirtingas amžiaus grupes skirtingai paveikė procesai: 
 Man bus pakankamai įdomu paanalizuoti šiuos duomenis kiek labiau, kai kitų metų trečiame ketvirtyje bus paskelbti [pilni](http://www.stat.gov.lt/lt/pages/view/?id=3758) surašymo duomenys.
 
 **Šaltiniai**
-* <http://www.stat.gov.lt/lt/news/view/?id=11317>
-* <http://www.stat.gov.lt/uploads/docs/2002_11_07.pdf>
-* <http://db1.stat.gov.lt/statbank/default.asp?w=1280>
+
+*Pastaba (2022 birželis): nuorodos nebeveikia :(*
+
+* [stat.gov.lt](http://www.stat.gov.lt/lt/news/view/?id=11317)
+* [stat.gov.lt](http://www.stat.gov.lt/uploads/docs/2002_11_07.pdf)
+* [stat.gov.lt](http://db1.stat.gov.lt/statbank/default.asp?w=1280)
 
 
 **Papildymas**

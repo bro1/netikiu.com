@@ -84,9 +84,9 @@ title: "Emocinis gebėjimas pasipriešinti ligoms"
 
  **Nuorodos**
 
- <http://www.ncbi.nlm.nih.gov/pubmed/23245970> – rodo, kad ilgalaikis stresas neigiamai veikia imuninės sistemos veiklą, tuo tarpu trumpalaikis stresas gali turėti teigiamą poveikį.
+* [PubMed: Psychological stress and immunoprotection versus immunopathology in the skin](http://www.ncbi.nlm.nih.gov/pubmed/23245970) – rodo, kad ilgalaikis stresas neigiamai veikia imuninės sistemos veiklą, tuo tarpu trumpalaikis stresas gali turėti teigiamą poveikį.
 
- <https://web.archive.org/web/20130221042948/http://freethoughtblogs.com/amilliongods/2012/11/26/immunity-easy-peasy-lemon-squeezie//> – gan glausta imuninės sistemos apžvalga.
+* [Freethoughtblogs :Immunity? Easy Peasy…. Lemon Squeezie](https://web.archive.org/web/20130221042948/http://freethoughtblogs.com/amilliongods/2012/11/26/immunity-easy-peasy-lemon-squeezie//) – gan glausta imuninės sistemos apžvalga.
 
- [http://sciblogs.co.nz/code-for-life/2011/08/14/abbie-smith-talk/](http://sciblogs.co.nz/code-for-life/2011/08/14/abbie-smith-talk/ "http://sciblogs.co.nz/code-for-life/2011/08/14/abbie-smith-talk/") – Abbie Smith vaizdo įrašas apie tai, kaip veikia imuninė sistema. Labai rekomenduoju pažiūrėti suprantantiems angliškai.
+ [SciBlogs: Abbie Smith on vaccines, your immune system and viruses](http://sciblogs.co.nz/code-for-life/2011/08/14/abbie-smith-talk/) – Abbie Smith vaizdo įrašas apie tai, kaip veikia imuninė sistema. Labai rekomenduoju pažiūrėti suprantantiems angliškai.
 

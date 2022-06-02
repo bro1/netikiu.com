@@ -3,13 +3,13 @@ aliases:
 - /2012/05/15/sarlatanu-ir-vezio-aukos/
 author: linasj
 categories:
-- uncategorized
+- alternatyvi-medicina
 date: '2012-05-15T01:38:44+00:00'
 publishDate: '2012-05-15T01:38:44+00:00'
 tags:
 - onkologija
 - vezys
-title: "\u0160arlatan\u0173 ir v\u0117\u017Eio aukos"
+title: "Šarlatanų ir vėžio aukos"
 ---
 Skeptikai kritikuoja visokius šarlatanus dėl keleto priežasčių. Viena iš pagrindinių priežasčių - bandymas apsaugoti save ir kitus nuo visokių šarlatanų savivalės. Žinau, kartais tos žolelės, kompresai ir homeopatiniai atrodo visai nepavojingi ir negrėsmingi, iki tol kol nesusiduri su [realybe](http://www.balsas.lt/naujiena/597373/onkologiniams-ligoniams-pasveikti-padeda-viltis) Vilniaus universiteto onkologijos institute:
 

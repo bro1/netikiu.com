@@ -72,8 +72,9 @@ Energetinė medicina neveikia, tad nešvaistykite jai pinigų ir laiko.
 O nevaisingoms poroms: mylėkite vienas kitą, mylėkitės ir linkiu sėkmės
 
 **Nuorodos**
-* 1. Alfa.lt: [Ar tikite, kad bioenergetikai gali padėti susilaukti kūdikio?](http://www.alfa.lt/straipsnis/13235161/Ar.tikite..kad.bioenergetikai.gali.padeti.susilaukti.kudikio.=2011-12-12_07-00/)
-* 2. Wikipedia.org: [Energy medicine](http://en.wikipedia.org/wiki/Energy_medicine)
-* 3. CG11 Fertility: [information for the public](http://www.nice.org.uk/guidance/index.jsp?action=download&o=29271)
-* 4. Supermama [atsiliepimai](http://webcache.googleusercontent.com/search?q=cache:RSNtbMOXfaUJ:www.supermama.lt/forumas/lofiversion/index.php/t477386.html+J%C5%ABrat%C4%97+Malinauskien%C4%97&cd=5&hl=en&ct=clnk&gl=ca)
+
+* Alfa.lt: [Ar tikite, kad bioenergetikai gali padėti susilaukti kūdikio?](http://www.alfa.lt/straipsnis/13235161/Ar.tikite..kad.bioenergetikai.gali.padeti.susilaukti.kudikio.=2011-12-12_07-00/)
+* Wikipedia.org: [Energy medicine](http://en.wikipedia.org/wiki/Energy_medicine)
+* CG11 Fertility: [information for the public](http://www.nice.org.uk/guidance/index.jsp?action=download&o=29271)
+* Supermama [atsiliepimai](http://webcache.googleusercontent.com/search?q=cache:RSNtbMOXfaUJ:www.supermama.lt/forumas/lofiversion/index.php/t477386.html+J%C5%ABrat%C4%97+Malinauskien%C4%97&cd=5&hl=en&ct=clnk&gl=ca)
 

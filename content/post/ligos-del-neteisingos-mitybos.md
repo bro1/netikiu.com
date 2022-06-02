@@ -17,9 +17,7 @@ tags:
 - ivarus-maistas
 title: "Ligos d\u0117l neteisingos mitybos"
 ---
-Trumpai: mityba yra svarbi sveiko gyvenimo dalis, tačiau vien sveika mityba neapsaugos nuo daugumos ligų. Ypač tai taikoma "stebuklingiems" maisto produktams.
-
-![zmogus-driezas-lt](http://static.zooomr.com/images/10152403_c0c74da8ea_o.jpg)
+***Trumpai: mityba yra svarbi sveiko gyvenimo dalis, tačiau vien sveika mityba neapsaugos nuo daugumos ligų. Ypač tai taikoma "stebuklingiems" maisto produktams.***
 
 Šiandien Delfi [komentaruose](http://www.delfi.lt/news/daily/Health/is-naturaliu-gydymo-budu-lietuvoje-populiariausios-vaistazoles-biciu-produktai-ir-masazas.d?id=54493517&com=1) kalbai pasisukus apie tai, kad tereikia teisingai maitintis ir jokios ligos nepuls kažkas taikliai atsakė:
 

@@ -5,18 +5,10 @@ aliases:
 - /2014/01/18/gydytojai-ir-ju-motyvacija/
 author: linasj
 categories:
-- uncategorized
+- sveikata-ir-medicina
 date: '2014-01-18T05:11:26+00:00'
-enclosure:
-- 'http://www.pusware.com/quackcast/quackcast130.mp3
-
-  18843973
-
-  audio/mpeg
-
-  '
 publishDate: '2014-01-18T05:11:26+00:00'
-title: "Gydytojai ir j\u0173 motyvacija"
+title: "Gydytojai ir jų motyvacija"
 ---
 Suprantantiems angliškai rekomenduoju pasiklausyti šito Quackcast 130-osios serijos [garso įrašo](http://www.pusware.com/quackcast/quackcast130.mp3), kuriame vienas infekcinių ligų gydytojas pasakoja apie tai, kas motyvuoja gydytojus, apie jų atsakomybę pacientams ir pan.
 

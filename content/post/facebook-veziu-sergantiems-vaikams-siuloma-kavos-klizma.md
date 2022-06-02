@@ -11,10 +11,12 @@ tags:
 - kavos-klizma
 - klizma
 - klizma-nuo-vezio
-title: "Facebook - v\u0117\u017Eiu sergantiems vaikams si\u016Bloma kavos klizma"
+title: "Facebook - vėžEiu sergantiems vaikams siūloma kavos klizma"
 ---
-![klizma-vezys](http://static.zooomr.com/images/10245023_dd6d17b74a_o.png)
-***Klausimas: Ar veikia kavos klizma nuo vėžio?******Atsakymas: Kavos klizma nuo vėžio neišgydys ir neapsaugos.***
+
+***Klausimas: Ar veikia kavos klizma nuo vėžio?***
+
+***Atsakymas: Kavos klizma nuo vėžio neišgydys ir neapsaugos.***
 
 Deja, šiais laikais sunkiems ligoniams "į pagalbą" skuba minios šarlatanų ir patiklių žmonių, kurie savo medicinines žinias kaupia skaitydami šarlatanų interneto svetaines ir knygas.
 
@@ -35,6 +37,5 @@ Prieš imdamiesi švaistyti pinigus, laiką ir savo savigarbą alternatyvios "me
 Štai straipsnio apie klizmų naudą [ištrauka](http://www.sveikaszmogus.lt/index.php?pagrid=straipsnis&strid=3022):
 
 > Palyginti paprastai atliekamos procedūros, sulaukusios neįtikėtino dėmesio tiek karalių rūmuose, tiek ir varguolių lūšnose, liaudis neužmiršo ir šiais laikais. Itin populiarios augalinės kilmės įvairių žolių nuovirų klizmos. Tvirtinama, kad jos padeda pašalinti žarnyno dujas, malšina viduriavimą. Medaus klizma skatina žarnyno peristaltiką, teigiamai veikia antinksčių, kepenų ir tulžies pūslės veiklą. Kavos klizma rekomenduojama norint sustiprinti detoksikacinę kepenų funkciją. Burokėlių nuoviro - itin veiksmingai gydo lėtinius vidurių užkietėjimus, žarnyno disbakteriozę, skatina žarnų peristaltiką. Teigiama, kad šios klizmos poveikis yra itin švelnus, todėl ji tinka ir vaikams.
-
 
 Atkreipkite dėmesį į visus tuos "tvirtinama, kad", "teigiama, kad" ir pan. Žinote, kodėl nerašo "įrodyta, kad" ar "nustatyta, kad"? Ogi todėl, kad visokie alternatyviosios medicinos šundaktariai iš užpakalio traukia tą "informaciją" (pun intended)!

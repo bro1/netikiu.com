@@ -14,9 +14,8 @@ tags:
 - vladimiras-azanovas
 title: "Pasaulis X: LNK pa\u017Ead\u0117jo b\u016Bti realistais, bet pamelavo"
 ---
-![burtai](http://static.zooomr.com/images/10243763_0cfd7a5aaf_o.png)
 
-Jau [rašiau](http://netikiu.com/2012/08/17/lnk-laida-pasaulis-x-ir-jos-vedejas-giedrius-leskevicius/) apie laidą Pasaulis X. Pirmąją seriją internete galite pasižiūrėti [LNK puslapyje](http://www.lnk.lt/laida/3632/pasaulis-x).
+Jau [rašiau](/2012/08/17/lnk-laida-pasaulis-x-ir-jos-vedejas-giedrius-leskevicius/) apie laidą Pasaulis X. Pirmąją seriją internete galite pasižiūrėti [LNK puslapyje](http://www.lnk.lt/laida/3632/pasaulis-x).
 
 Taigi šiandien pasižiūrėjau tą laidą:
 

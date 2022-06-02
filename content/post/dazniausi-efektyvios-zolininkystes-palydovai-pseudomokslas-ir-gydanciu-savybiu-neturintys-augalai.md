@@ -3,7 +3,8 @@ aliases:
 - /2012/05/09/dazniausi-efektyvios-zolininkystes-palydovai-pseudomokslas-ir-gydanciu-savybiu-neturintys-augalai/
 author: linasj
 categories:
-- uncategorized
+- alternatyvi-medicina
+- sveikata-ir-medicina
 date: '2012-05-09T03:42:56+00:00'
 publishDate: '2012-05-09T03:42:56+00:00'
 tags:
@@ -12,10 +13,9 @@ tags:
 - zoleles
 - zolininkas
 - zolininkyste
-title: "Da\u017Eniausi efektyvios \u017Eolininkyst\u0117s palydovai - pseudomokslas\
-  \ ir gydan\u010Di\u0173 savybi\u0173 neturintys augalai"
+title: "Dažniausi efektyvios žolininkystės palydovai - pseudomokslas ir gydančių savybių neturintys augalai"
 ---
-![Gydymas žolelėmis egzistavo tūkstančius metų. Po to mes ištyrėme jų efektyvumą ir tai, kas veikė - tapo vaistais.](http://static.zooomr.com/images/10196520_33f70f5465_o.png)
+***Gydymas žolelėmis egzistavo tūkstančius metų. Po to mes ištyrėme jų efektyvumą ir tai, kas veikė - tapo vaistais.***
 
 Žolininkystė yra labai įdomi alternatyviosios medicinos sritis. Ji iš absoliučios daugumos kitų alternatyviosios medicinos sričių išsiskiria tuo, kad ji tikrai gali būti efektyvi.
 

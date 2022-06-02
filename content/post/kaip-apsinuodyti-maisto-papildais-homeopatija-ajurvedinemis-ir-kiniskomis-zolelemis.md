@@ -30,7 +30,7 @@ Australijoje mokslininkai [ištyrė](http://www.nature.com/articles/srep17475#f1
 
 92% visų tirtų tradicinės kinų medicinos "vaistų" turėjo bent vieną iš šių problemų.
 
-![24078679232_48c8cf20d1_o](/static/2016/01/24078679232_48c8cf20d1_o.jpg)
+<img src="/static/2016/01/24078679232_48c8cf20d1_o.jpg" style="max-width: 100%"/>
 
 **Dauguma iš žolelių pagamintų papildų Šiaurės Amerikoje - užteršta**
 
@@ -38,9 +38,9 @@ Australijos mokslininkų tyrimas - ne vienintelis toks tyrimas. Neseniai panašu
 
 Ištyrus 44 produktus (12-os gamintojų) paaiškėjo, kad tik 2-jų gamintojų produktuose nebuvo substitutų, priedų ir priemaišų, o kai kurie identifikuoti teršalai kelia rimtą pavojų sveikatai (įskaitant alergines reakcijas).
 
-**20% tirtų ajurvedinių žolelių Bostone užteršta sunkiaisias metalais**
+**20% tirtų ajurvedinių žolelių Bostone užteršta sunkiaisiais metalais**
 
-Kiek senesnis ajurvedinžių žolelių [tyrimas](http://www.ncbi.nlm.nih.gov/pubmed/15598918) atliktas Bostone 2004-aisiais parodė, kad 20% ajurvedinių žolelių mišinių (14 iš tirtų 70-ies) buvo užteršta švinu, gyvsidabriu ir arseniku.
+Kiek senesnis ajurvedinių žolelių [tyrimas](http://www.ncbi.nlm.nih.gov/pubmed/15598918) atliktas Bostone 2004-aisiais parodė, kad 20% ajurvedinių žolelių mišinių (14 iš tirtų 70-ies) buvo užteršta švinu, gyvsidabriu ir arseniku.
 
 **Homeopatija - pavieniai užterštumo atvejai**
 
@@ -64,6 +64,7 @@ Tad jeigu, kas nors pasiūlys jums žolelių ir maisto papildų - tiesiog pasa
 Žinoma, yra keletas papildų ir vitaminų, kurių naudingumas kai kuriais konkrečiais atvejais (pvz. folio rūgštis nėščioms moterims) yra pagrįstas tinkamais tyrimais, tačiau vidutiniam žmogui vakarų Europoje, standartinė dieta suteikia viską, ko reikia organizmui. Kaip ten bebūtų, pasitarkite su savo šeimos gydytoju.
 
 **Nuorodos į tyrimus**
+
 * [Combined DNA, toxicological and heavy metal analyses provides an auditing toolkit to improve pharmacovigilance of traditional Chinese medicine (TCM)](http://www.nature.com/articles/srep17475#f1)
 * [DNA barcoding detects contamination and substitution in North American herbal products](http://www.biomedcentral.com/1741-7015/11/222)
 * [Heavy metal content of ayurvedic herbal medicine products.](http://www.ncbi.nlm.nih.gov/pubmed/15598918)
