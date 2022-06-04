@@ -14,6 +14,7 @@ tags:
 - homeopatija
 title: "Nuotrauka \u2013 aplink pasaulį #2 \u2013 Cusco, Peru"
 ---
-[![Peru Cusco Homeopathy Integral Medicine by brovienas](http://farm4.staticflickr.com/3676/10721177814_925989d7b4.jpg)](http://www.flickr.com/photos/bro1/10721177814/ "Peru Cusco Homeopathy Integral Medicine")
-[Peru Cusco Homeopathy Integral Medicine](http://www.flickr.com/photos/bro1/10721177814/), a photo by [brovienas](http://www.flickr.com/photos/bro1/) on Flickr.
+
+[![Peru Cusco Homeopathy Integral Medicine by brovienas](https://farm4.staticflickr.com/3676/10721177814_925989d7b4.jpg)](https://www.flickr.com/photos/bro1/10721177814/ "Peru Cusco Homeopathy Integral Medicine")
+
 Fotografuota 2013 Peru netoli viešbučio, kuriame buvome apsistoję.
