@@ -13,10 +13,11 @@ tags:
 - vairuotojai
 - zodiakas
 - zodiako-zenklas
-title: "Zodiako \u017Eenklo \u012Ftaka vairavimo sugeb\u0117jimams ir \u012Fg\u016B\
-  d\u017Eiams"
+title: "Zodiako ženklo įtaka vairavimo sugebėjimams ir įgūdžiams"
 ---
-![Sudaužytas automobilis. Ir šūkis: Astrologijos mokslas rodo, kad labiausiai tikėtina, jog šį automobilį vairavo dvynys, ir kad mažiausiai tikėtina, jog šį autmobilį vairavo dvynys](http://static.zooomr.com/images/10143042_f7dc24affd_o.jpg)
+
+![Sudaužytas automobilis. Ir šūkis: Astrologijos mokslas rodo, kad labiausiai tikėtina, jog šį automobilį vairavo dvynys, ir kad mažiausiai tikėtina, jog šį automobilį vairavo dvynys](http://static.zooomr.com/images/10143042_f7dc24affd_o.jpg)
+
 ***Trumpai: Zodiako ženklai vairavimo įgūdžiams įtakos neturi.***
 
 Įvairios draudimo kompanijos atliko bent tris tyrimus, kuriais jie "pademonstravo" kaip zodiako ženklas įtakoja vairuotojų įgūdžius ir sugebėjimus.
@@ -44,11 +45,11 @@ Iš straipsnio [Lietuvos ryte](http://www.lrytas.lt/-13255149041325034203-astrol
 
 **Išvada Nr 1.**
 
-Taigi iš viso šito mes išsiaiškinome, kad dvyniai yra saugiausi ir pavojingiausi vairuotojai, o žuvys yra pavojingiausi, bet svarstyklės yra pavojingiausi. Taip pat išsiaiškinome, kad saugiausi yra liūtai, bet saugiausi yra ožiaragiai, o saugiausi - vėlgi dvyniai. Žinau žinau, gramtiškai netaisyklingi sakiniai, bet gan sėkmingai atspindi tyrimų rezultatus.
+Taigi iš viso šito mes išsiaiškinome, kad dvyniai yra saugiausi ir pavojingiausi vairuotojai, o žuvys yra pavojingiausi, bet svarstyklės yra pavojingiausi. Taip pat išsiaiškinome, kad saugiausi yra liūtai, bet saugiausi yra ožiaragiai, o saugiausi - vėlgi dvyniai. Žinau žinau, gramatiškai netaisyklingi sakiniai, bet gan sėkmingai atspindi tyrimų rezultatus.
 
 **Papildoma informacija**
 
-Praėjusiais metais pasaulį "sudrebino" žinia, kad  laikui bėgant zodiako ženklai persislinko, ir dabar mes jau turime nebe 12, o 13 zodiako ženklų (tryliktasis yra - [gyvatnešys](http://lt.wikipedia.org/wiki/Gyvatne%C5%A1is)) ir visų jų pradžios nuo "standartinio" zodiako kalendoriaus persislinko. Kai kurie zodiako ženklai persislinko tik keliom dienom, kai kurios kone visu mėnesiu. Aukščiau pacituotas Allstate Insurance atsižvelgė ir į naująjį gyvatnešio ženklą ir į pasiketusias zodiako ženklų datas.
+Praėjusiais metais pasaulį "sudrebino" žinia, kad  laikui bėgant zodiako ženklai persislinko, ir dabar mes jau turime nebe 12, o 13 zodiako ženklų (tryliktasis yra - [gyvatnešys](http://lt.wikipedia.org/wiki/Gyvatne%C5%A1is)) ir visų jų pradžios nuo "standartinio" zodiako kalendoriaus persislinko. Kai kurie zodiako ženklai persislinko tik keliom dienom, kai kurios kone visu mėnesiu. Aukščiau pacituotas Allstate Insurance atsižvelgė ir į naująjį gyvatnešio ženklą ir į pasikeitusias zodiako ženklų datas.
 
 Tiesa, vėliau Alstate Insurance [atsiprašė žmonių](http://money.cnn.com/2011/02/02/news/companies/allstate_zodiac/index.htm) už tai, kad taip kvailai pajuokavo ir užtikrino, kad jie į draudimą žiūri rimtai ir daugiau neskelbs tokių beprasmių tyrimų, net ir pašmaikštavimo tikslais.
 

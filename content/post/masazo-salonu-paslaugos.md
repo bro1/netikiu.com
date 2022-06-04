@@ -1,8 +1,4 @@
 ---
-_oembed_778378a4684f5d587d683c5386d9822d:
-- '{{unknown}}'
-_wpas_skip_fb:
-- 1
 aliases:
 - /2012/01/11/masazo-salonu-paslaugos/
 author: linasj
@@ -22,9 +18,8 @@ tags:
 - refleksologija
 - refleksologe
 - refleksoterapija
-title: "Masa\u017Eo salonas ir neveikian\u010Dios \"medicinos\" paslaugos"
+title: "Masažo salonas ir neveikiančios \"medicinos\" paslaugos"
 ---
-![Iliustracija: Ausies ir pėdų žemėlapiai](http://static.zooomr.com/images/10145068_ee0309094c_o.jpg)
 
 Iš [balsas.lt](http://www.balsas.lt/naujiena/573024/verslininkas-neregys-reikia-moketi-savo-trukumus-paversti-privalumais) sužinojau apie, tai, kad Švedijos ambasada apdovanojo neregį verslininką, kuris masažo salone įdarbina neregius ir silpnaregius.
 
@@ -69,17 +64,17 @@ Trečioji paslauga - akupunktūra lazeriais
 
 > [Lazerio terapija](http://www.matanciosrankos.lt/index.php?module=navigation&id=51)
 > 
-> Šiuo metodu gydo regėjimo negalią turinti gydytoja refleksoterapeutė Jūratė Dalia Baronienė.
+> Šiuo metodu gydo regėjimo negalią turinti gydytoja refleksoterapiautė Jūratė Dalia Baronienė.
 > 
 > Taikant lazerio terapijos procedūras, greitai išgydome lūžusius kaulus, dvylikapirštės žarnos ar skrandžio opas, radikulitą, ūminį bronchitą, sinusitą, bei daugelį kitų ūminių ir lėtinių ligų.
 
 
 Kaip jau minėjau anksčiau, tai, kad adatas pakeisite lazeriais, jų efektas nepasikeis, efektas kaip buvo, taip ir liks tik placebas.
 
-O jeigu iškilo klausimas, kas yra ta refleksoterapija, tai ko gero nelabai nustebsite, kad ir tai yra niekuo su medicina nesusijęs dalykas. Refklesoterapija ar [refleksologija](http://en.wikipedia.org/wiki/Reflexology) yra tik tikėjimas, kad žmogaus pėdose yra viso kūno "žemėlapis" ir kad masažuojant pėdas bus paveikiami tą "žemėlapį" atitinkantys organai.
+O jeigu iškilo klausimas, kas yra ta refleksoterapija, tai ko gero nelabai nustebsite, kad ir tai yra niekuo su medicina nesusijęs dalykas. Refleksoterapija ar [refleksologija](http://en.wikipedia.org/wiki/Reflexology) yra tik tikėjimas, kad žmogaus pėdose yra viso kūno "žemėlapis" ir kad masažuojant pėdas bus paveikiami tą "žemėlapį" atitinkantys organai.
 
 **Išvados**
 
-Į masažo saloną eikite masažo. O jeigu masažo salone jums pasiūlys kokią nors diagnostiką ar terapiją, geriau pasikosultuokite su tikru gydytoju, kad netektų švaistyti pinigų neveikiantiems niekams.
+Į masažo saloną eikite masažo. O jeigu masažo salone jums pasiūlys kokią nors diagnostiką ar terapiją, geriau pasikonsultuokite su tikru gydytoju, kad netektų švaistyti pinigų neveikiantiems niekams.
 
 O jeigu kada nuspręsite įteikti prizą kokiam verslininkui, pasidomėkite ne tik tuo, ką jis įdarbina, bet ir kokias paslaugas teikia jo įmonė. Gal persigalvosite.
