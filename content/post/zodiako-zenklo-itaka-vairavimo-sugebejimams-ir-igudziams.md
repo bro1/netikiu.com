@@ -8,8 +8,7 @@ date: '2012-01-04T04:04:52+00:00'
 publishDate: '2012-01-04T04:04:52+00:00'
 tags:
 - astrologija
-- horskopas-vairuotojams
-- horskopas-vairuotojui
+- horsokopas
 - vairuotojai
 - zodiakas
 - zodiako-zenklas
