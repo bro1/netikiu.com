@@ -1,12 +1,4 @@
 ---
-_oembed_0f057150a355824ce84785d800ad65a6:
-- '{{unknown}}'
-_oembed_18c15be54a917b22acd640f64eb57269:
-- '{{unknown}}'
-_oembed_462735389a4ea27a4ce3f9d332ea29ce:
-- '{{unknown}}'
-_oembed_56ed551c1c59c7ef1e0212ce9bc5f347:
-- '{{unknown}}'
 aliases:
 - /2011/10/24/zirniukai/
 author: linasj

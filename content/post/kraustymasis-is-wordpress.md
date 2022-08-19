@@ -11,4 +11,4 @@ title: "Kraustymasis iš Wordpress"
 
 Wordpress nuo šiol nebeleidžia naudoti nuosavo domeno vardo (netikiu.com), nebent aš pradėčiau mokėti 15 JAV dolerių per mėnesį.
 
-Tad mano planas per artimiausius metus, iki 2023 balandžio, persikelti iš Wordpress platformos į statiškai sugeneruotą svetainę patalpintą Netlify platformoje.
+Tad ši svetainė perkelta iš Wordpress į statiškai sugeneruotą svetainę patalpintą Netlify platformoje.
