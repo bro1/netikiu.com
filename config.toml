@@ -21,7 +21,7 @@ unsafe = true  # enable raw HTML in Markdown
 
 [params]
     keywords = ["laisvamaniai", "laisvamanybė", "žmonių teisės", "žiniasklaidos atsakomybė", "pagarba tiesai", "pagarba mokslo metodui", "pagarba mokslui","žmonių laisvės", "abortas", "abortai", "eutanazija", "eutanazijos legalizavimas","LGBT teisės","vienos lyties asmenų santuoka","vakcinos", "vakcinavimas","sąmokslo teorijos"]
-    description = "Laisvamaniai gerbia žmogaus laisves ir teises, žmonių lygybę, mokslą, sekuliarią visuomenę ir žiniasklaidos atsakingumą."
+    description = "Gerbiu žmogaus laisves ir teises, žmonių lygybę, mokslą, sekuliarią visuomenę ir žiniasklaidos atsakingumą. Vertinu žodžio laisvę ir taip pat manau, kad labai svarbu riboti dezinformacijos sklaidą."
 
 [[menu.header]]
     name = "Apie"
