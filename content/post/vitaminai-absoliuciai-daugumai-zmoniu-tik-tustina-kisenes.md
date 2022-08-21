@@ -1,6 +1,4 @@
 ---
-_publicize_pending:
-- 1
 aliases:
 - /2013/12/24/vitaminai-absoliuciai-daugumai-zmoniu-tik-tustina-kisenes/
 author: linasj

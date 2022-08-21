@@ -1,6 +1,4 @@
 ---
-_publicize_pending:
-- 1
 aliases:
 - /2013/04/14/zolinciu-absurdai/
 author: linasj

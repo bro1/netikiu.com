@@ -17,7 +17,7 @@ Deja, kai kurie žmonės nelabai supranta, kas yra tas informuotas pasirinkimas.
 
 Tokį komentarą aš traktuoju, kaip kvietimą atsisakyti bet kokios kokybės kontrolės medicinos srityje ir nustoti ginti pacientų teises. Tai kvietimas įteisinti šarlatanus ir užkrauti visą medicinos ekspertizę ant pacientų pečių.
 
-Susirgai kokia nors liga ir eik mokytis prieš susitikimą su daktaru, kurie gydymo būdai yra efektyvūs, kurie neefektyvūs. Kokie šalutiniai gydymo efektai, kokios alternatyvos. Gerai dar, jei mokykloj pro langą nežiopsojai per pamokas ir supranti kaip veikia chemija, fizika, biologija, statistika, kas yra evoliucija, energija, imuninė sistema, jeigu suvoki, kaip veikia placebas ir žmogaus pischologija ir jeigu turi priėjimą prie įvairių mokslinių ir medicininių duomenų bazių. Tuomet pakenčiami šansai, kad kai kuriais atvejais atskirsi efektyvų gydymą nuo šarlatano pasakų...
+Susirgai kokia nors liga ir eik mokytis prieš susitikimą su daktaru, kurie gydymo būdai yra efektyvūs, kurie neefektyvūs. Kokie šalutiniai gydymo efektai, kokios alternatyvos. Gerai dar, jei mokykloj pro langą nežiopsojai per pamokas ir supranti kaip veikia chemija, fizika, biologija, statistika, kas yra evoliucija, energija, imuninė sistema, jeigu suvoki, kaip veikia placebas ir žmogaus psichologija ir jeigu turi priėjimą prie įvairių mokslinių ir medicininių duomenų bazių. Tuomet pakenčiami šansai, kad kai kuriais atvejais atskirsi efektyvų gydymą nuo šarlatano pasakų...
 
 O jeigu viso to nesuvoki?
 
